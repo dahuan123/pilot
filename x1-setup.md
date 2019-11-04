@@ -61,7 +61,7 @@ PowerShell 是 Windows 下的增强命令行环境，也是我们以后要用的
 
 以后当我们说“打开命令行界面运行 xxxx 命令”的时候，就是指在上图这个 PowerShell 界面下输入 `xxxx ↩︎`。
 
-有时候我们需要以管理员的权限执行一些命令行命令，那么就需要启动 ConEmu 然后打开一个管理员权限的 PowerShell 界面，方法是选右上角的绿色加号然后按下图选择：
+有时候我们需要以管理员的权限执行一些命令行命令，那么就需要启动 ConEmu 然后打开一个管理员权限的 PowerShell 界面，方法是选右上角的绿色加号旁边的小三角然后按下图选择：
 
 ![ConEmu](assets/conemu-powershell-admin.png)
 
